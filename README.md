@@ -1,8 +1,8 @@
 # BethanysPieShop
-- An E-Commerce ASP.Net Core web app for selling pies.
+An E-Commerce ASP.Net Core web app for selling pies.
 
-## Description
-- An e-commerce web app that provides the following features:
+## Description:
+- Bethany's Pie Shop provides the following features:
 - Allows customers to register/login.
 - Choose pies.
 - Display list of the favourite pies of the week.
