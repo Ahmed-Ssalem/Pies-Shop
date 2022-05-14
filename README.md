@@ -15,6 +15,7 @@ Pies Shop provides the following features:
 - SQL Server 
 - Linq
 - Html
+- CSS
 - Bootstrap
 - Javascript
 
