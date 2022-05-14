@@ -1,4 +1,4 @@
-# BethanysPieShop
+# Bethany's Pies Shop
 An E-Commerce ASP.Net Core web app for selling pies.
 
 ## Description:
