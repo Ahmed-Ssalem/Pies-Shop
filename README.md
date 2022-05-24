@@ -19,5 +19,5 @@ Pies Shop provides the following features:
 - Bootstrap
 - JavaScript
 
-## Website Link
+## Website Link:
 http://pieshop.somee.com
